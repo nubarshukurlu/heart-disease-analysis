@@ -85,3 +85,24 @@ The clustering analysis includes:
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+
+## Repository Contents
+
+```text
+heart-disease-analysis/
+│
+├── data/
+│   ├── heart.csv
+│   └── heart_cleaned.csv
+│
+├── Notebooks/
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_population_comparison.ipynb
+│   ├── 03_data_cleaning.ipynb
+│   ├── 04_modeling.ipynb
+│   ├── 05_stability_across_regions.ipynb
+│   ├── 06_unknown_structure.ipynb
+│   └── 07_interpreting_differences.ipynb
+│
+└── README.md
